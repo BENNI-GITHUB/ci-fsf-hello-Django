@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-j4*j=2_5#wh-i(^)sf8a8dk6pi*k7$t_7vs-j&3fu&os8o&v=f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-benni-github-ci-fsf-hell-v5d46b01vl.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['benni-django-todo-app-fe6c85fa7974.herokuapp.com/']
 
 
 # Application definition
